@@ -19,4 +19,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ZenoSom&icon=0&color=8)](https://visitcount.itsvg.in)
 
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+
+<br><br>     
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
