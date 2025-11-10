@@ -1,6 +1,10 @@
 # 💫 About Me:
-BSc in Artificial Intelligence & Data Science, beginner-level projects in AI, and data science courses.🤝 I’m looking to collaborate on<br><br>Learning projects, open-source beginner projects, especially in AI, data science, and IoT (using Arduino/ESP boards).<br><br>🌱 I’m currently learning<br><br>Artificial Intelligence, Data Science, Python programming, electronics, and IoT project development.<br><br>👨‍💻 I’m looking for help with<br><br>Understanding advanced AI concepts, real-world data science problems, and developing practical IoT solutions.<br><br>💬 Ask me about<br><br>AI, data science basics, IoT mini-projects (Arduino/ESP), Python programming, and learning strategies for tech students.<br><br>⚡ Fun fact<br><br>I enjoy "AI hacking" and love hands-on wireless projects. Recently, I went deep into making IoT projects using Arduino and ESP boards.
+✨ About Me
+🚀 A passionate and detail-driven student who loves turning ideas into innovation! With a deep curiosity for technology, AI, and data science, I enjoy uncovering insights from data and building smart solutions that make a real impact. 💡
 
+💻 From coding projects to hands-on research, I’m constantly learning, experimenting, and growing — blending creativity with logic to solve complex problems. 🌍
+
+🎯 Currently pursuing academic and project-based learning to sharpen my technical skills and shape a future driven by innovation and purpose.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hackthesingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/somnath-singh-752043371/) ) 
