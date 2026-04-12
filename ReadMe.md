@@ -7,10 +7,9 @@
 🎯 Currently pursuing academic and project-based learning to sharpen my technical skills and shape a future driven by innovation and purpose.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hackthesingh) 
-
-
-[![My LinkedIn GIF](https://media.giphy.com/avatars/LinkedIn/ajFOa7zWYFyL/200h.jpg)](https://www.linkedin.com/in/somnath-singh-752043371/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hackthesingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-singh-752043371/)
 
 
 <h2 align="center">
