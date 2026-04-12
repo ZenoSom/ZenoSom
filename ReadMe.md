@@ -7,7 +7,6 @@
 🎯 Currently pursuing academic and project-based learning to sharpen my technical skills and shape a future driven by innovation and purpose.
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hackthesingh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-singh-752043371/)
 
