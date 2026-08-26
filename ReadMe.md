@@ -1,6 +1,7 @@
 # 💫 About Me:
 ✨ About Me
 🚀 A passionate and detail-driven student who loves turning ideas into innovation! With a deep curiosity for technology, AI, and data science, I enjoy uncovering insights from data and building smart solutions that make a real impact. 💡
+ Ready to Connect 
 
 💻 From coding projects to hands-on research, I’m constantly learning, experimenting, and growing — blending creativity with logic to solve complex problems. 🌍
 
@@ -44,4 +45,4 @@
 
 <br><br>     
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> this is my redd me file 
+
